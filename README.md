@@ -58,7 +58,3 @@ then runs a single ffmpeg command that:
 - Embeds the chosen image as cover art (`attached_pic`)
 - Wraps the result in an MP4/M4B container with `faststart` for quick
   seeking in audiobook players
-
-## License
-
-MIT — feel free to modify and reuse.
